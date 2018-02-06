@@ -1,0 +1,30 @@
+/* add your CSS here */
+
+html {
+  width: 340px;
+}
+
+img {
+  width: 300px;
+}
+
+span {
+  font-weight: 900;
+}
+
+ul {
+  list-style-type: none;
+}
+
+#intresting {
+  border-style: solid;
+  border-width: thin;
+  padding: 10px;
+}
+
+#whole {
+  box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.2);
+  border-style: solid;
+  border-width: thin;
+  padding: 10px;
+}
